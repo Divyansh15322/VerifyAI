@@ -125,7 +125,7 @@ const Results = () => {
 
   const handleDownloadReport = () => {
     const token = localStorage.getItem('verifyai_token');
-    const url = `${import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000/api'}/verifications/${id}/report`;
+    const url = `${import.meta.env.VITE_API_BASE_URL || 'https://verify-fbfi7t0dh-divyansh15322s-projects.vercel.app/'}/verifications/${id}/report`;
     fetch(url, { headers: { 'Authorization': `Bearer ${token}` } })
       .then(r => { if (!r.ok) throw new Error("Download failed"); return r.blob(); })
       .then(blob => {
