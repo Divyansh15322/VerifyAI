@@ -1,3 +1,4 @@
+from typing import Any, List
 import io
 from datetime import datetime
 from reportlab.lib.pagesizes import letter
