@@ -1,0 +1,19 @@
+VerifyAI Finance Evidence Validation Regulations
+Document Code: FIN-REG-2026-V3
+Last Updated: March 10, 2026
+
+1. INTRODUCTION & SCOPE
+This document outlines standard verification parameters for proof of income, bank account standings, and personal tax declaration checks.
+
+2. INCOME STATEMENT COMPLIANCE
+To support financial capacity claims, applicants must provide credit logs matching their declarations.
+- Salary Matching: Deposited credit line amounts (net salary credits) must match salary slips or tax forms within a 5% margin of tolerance.
+- Holder Alignment: The account owner name printed on bank statement headers must exactly match the applicant profile name (first and last name alignment).
+- Official Stamp: Bank statement pages must display the official bank seal, stamp, or digital audit signature of the issuing financial institution.
+
+3. RED FLAGS & TAMPERING DETECTION
+- Font Discrepancies: Statements containing multiple font sizes, styles, or unexpected margin shifts indicate structural alteration. These are categorized as "Needs Review" or "Insufficient Evidence" depending on risk.
+- Balance Continuity: Transaction opening and closing balances must match chronologically across consecutive statements. Broken balance chains indicate missing logs.
+
+4. REQUIRED EXPOSURE
+Applications lacking 3 consecutive months of bank statements or tax declarations are automatically statused as "Insufficient Evidence".

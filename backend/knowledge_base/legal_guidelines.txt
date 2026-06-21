@@ -1,0 +1,21 @@
+VerifyAI Legal Services Document Verification Guidelines
+Document Code: LEGAL-GUIDE-2026-V2
+Last Updated: June 01, 2026
+
+1. INTRODUCTION & SCOPE
+This document defines criteria for validating notarized deeds, signed contracts, legal agreements, and witness attestation documents.
+
+2. CONTRACT EXECUTION CHECKLIST
+For a contract or legal deed to be verified as "Supported":
+- Authorized Signatories: All parties named in the execution block must have physically or digitally signed. Missing signatures flag as "Insufficient Evidence".
+- Notary Public Seal: Agreements requiring notarization must display the Notary Public seal and registration number (e.g., Notary Reg #NP-XXXXX).
+- Execution Date: The date of signing must be present and within the validity window declared in the contract terms.
+- Witness Attestation: Two independent witnesses must co-sign the document on separate lines or witness blocks, with printed names and identification numbers.
+
+3. VALIDITY & JURISDICTION
+- Governing Law: The contract must declare a jurisdiction clause (e.g., "This agreement is governed by the laws of [State/Country]").
+- Stamp Duty: Agreements above a specified monetary threshold require government stamp duty seals.
+
+4. EXCLUSIONS
+- Unsigned signature blocks default the document to "Insufficient Evidence".
+- Undated witness signatures are flagged as "Needs Review".

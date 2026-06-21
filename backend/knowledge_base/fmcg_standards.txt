@@ -1,0 +1,17 @@
+VerifyAI FMCG Packaging & Label Compliance Standards
+Document Code: FMCG-STD-2026-V1
+Last Updated: February 22, 2026
+
+1. INTRODUCTION & SCOPE
+This standard covers the mandatory packaging checks for food, beverages, and cosmetic items sold within the retail market.
+
+2. MANDATORY LABEL DETAILS
+Every FMCG retail item packaging label must clearly feature:
+- Ingredient Declaration: A complete list of all ingredients sorted by weight in descending order.
+- Allergen Warnings: Major allergens (e.g. nuts, dairy, soy, gluten) must be highlighted in bold or separately declared (e.g., "Contains: Peanuts").
+- Batch Number and Expiration Date: Clear batch identifier numbers (e.g. B-XXXXX) and expiration dates (e.g., "EXP: DD/MM/YYYY" or "Best Before: MM/YYYY") must be visible.
+- Compliance Badges: Visual compliance stamps (such as FDA, FSSAI, CE, ISO seals) must match verified graphics.
+
+3. INSPECTION AND AUDITS
+- Barcode Verification: Product barcodes must match GS1 prefix directories for product authenticity verification.
+- Packaging Alterations: Damaged label printing or faded barcodes must be flagged for manual packaging review.

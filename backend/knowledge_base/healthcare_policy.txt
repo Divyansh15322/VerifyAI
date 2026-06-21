@@ -1,0 +1,21 @@
+VerifyAI Healthcare Evidence Verification Policy Manual
+Document Code: HC-POL-2026-V1
+Last Updated: January 15, 2026
+
+1. INTRODUCTION & SCOPE
+This document outlines compliance criteria for healthcare claim reimbursement, patient prescription audits, and clinical treatment validations. 
+
+2. CRITICAL PRE-REQUISITES (MUST Haves)
+For any medical reimbursement claim to be statused as "Supported", the uploaded files MUST contain the following visual and textual indicators:
+- Clinical Letterhead: The name, address, and contact details of the clinic or hospital must be printed clearly at the top.
+- Practitioner License Number: The medical practitioner's registry number (e.g. Reg #MD-XXXXXX or Lic #XX-XXXXX) must be present on the prescription.
+- Date of Treatment: Must align with the claimant statement, falling within the policy coverage timeframe.
+- Signature / Stamp: A physical or digital signature of the physician or dentist, along with the clinic's official stamp, is strictly required.
+
+3. VALIDATION PROTOCOLS
+- Prescription Audits: AI agents must cross-reference prescribed drugs and dosages with the patient diagnosis description. Inconsistencies must flag the claim as "Needs Review".
+- Dental Extract Reimbursements: Standard dental tooth extractions are subject to standard code check lists. An itemized invoice must accompany the dentist prescription.
+
+4. EXCLUSIONS & PENALTIES
+- Self-prescribed drugs or letters missing doctor registration codes are automatically flagged as "Insufficient Evidence".
+- Uploaded invoices lacking hospital letterheads are categorized as "Needs Review" due to incomplete source validation.

@@ -1,0 +1,16 @@
+VerifyAI Manufacturing Quality Control Spec Guidelines
+Document Code: MFG-SPEC-2026-V1
+Last Updated: May 12, 2026
+
+1. INTRODUCTION & SCOPE
+This document outlines standard verification parameters for parts dimensional audits, material certifications, and assembly stamps.
+
+2. QUALITY CERTIFICATION DETAILS
+For a batch inspection report or material testing sheet to be certified:
+- Material Grade: The testing sheet must state the verified material grade (e.g. Steel Grade 316, Aluminum 6061-T6).
+- Dimensional Tolerance Check: Measurements must fall strictly within drawing specification margins. (e.g. standard margins are 25.00mm ± 0.05mm). Out of spec parts are rejected.
+- Inspection Stamp: Reports must display the quality supervisor stamp and sign-off date. Missing stamps default to "Needs Review".
+
+3. COMPLIANCE STANDARDS
+- ISO 9001: Quality certificates must reference ISO 9001 compliance standards.
+- Batch Identifiers: Part serial numbers must align with shipping cargo indexes.
